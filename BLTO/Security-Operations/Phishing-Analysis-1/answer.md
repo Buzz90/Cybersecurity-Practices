@@ -50,6 +50,7 @@ Received: from c5s2-1e-syd.hosting-services.net.au ([103.9.171.10])
 ```
 
 Now we can enter the IP for the answer.
+
 **Answer:** 103.9.171.10
 
 ## 5. Perform reverse DNS on this IP address, what is the resolved host? (whois.domaintools.com)
