@@ -1,8 +1,6 @@
 # Phishing Analysis 1
 
-## Scenario
-
-A user has received a phishing email and forwared it to the SOC. Can you investigate the email and attachment to collect useful artifacts?
+*A user has received a phishing email and forwared it to the SOC. Can you investigate the email and attachment to collect useful artifacts?*
 
 # Questions
 
@@ -37,7 +35,7 @@ Again, the answer is located in the header of the email.
 
 ## 4. What is the Originating IP?
 
-To find the Originating IP, we'll have to dive through the texts and find the IP. **Make sure you find the origin, not the Kinnar's IP!**
+To find the Originating IP, we'll have to dive through the texts and find the IP. **Make sure you find the origin, not Kinnar's IP!**
 
 Below is the Originate IP complete with it's host:
 
@@ -89,5 +87,8 @@ I followed the guide by using URL2PNG and pasted the URL in the site and receive
 
 **Answer:** Blog has been removed
 
-# Conclusion
+# Summary
+
+Rating: ★★★★☆ | Difficulty: ★★☆☆☆
+
 By finishing this practice, I learned the basics of analysing Phishing Email in which I am able to find who, when, why, what, and how the attack happened.
