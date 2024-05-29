@@ -38,7 +38,7 @@ Next, I press ```View details``` button to go to the product page. Before I chan
 
 ![Burp Suite HTTP Request](/WSA(Burp)/LAB-2-Identifying-and-interacting-with-API-endpoints/images/3.png)
 
-Once I identified API endpoints, I then interact with the API using Burp Repeater to investigate how the API will respond. To do that, will send the highlighted URL and ```Send to Repeater``` and then navigate to ```Repeater``` tab in Burp Suite.
+Once I identified API endpoints, I then interact with the API using Burp Repeater to investigate how the API will respond. To do that, I will send the highlighted URL and ```Send to Repeater``` and then navigate to ```Repeater``` tab in Burp Suite.
 
 ![Burp Suite Repeater](/WSA(Burp)/LAB-2-Identifying-and-interacting-with-API-endpoints/images/4.png)
 
