@@ -16,7 +16,7 @@ To solve the lab, exploit a hidden API endpoint to buy a **Lightweight l33t Leat
 
 ## Let's begin solving it!
 
-As usual, I will use Burp Suite and paste the link used by the Lab there. I guess I don't need to screenshot it since I already explained in the [previous lab](/WSA(Burp)/LAB-1/answer.md).
+As usual, I will use Burp Suite and paste the link used by the Lab there. I guess I don't need to screenshot it since I already explained in the [previous lab](/WSA(Burp)/LAB-1-API-Documentation/answer.md).
 
 Again, we'll login using the credentials that was given in the task:
 
@@ -24,7 +24,7 @@ Again, we'll login using the credentials that was given in the task:
 
 > Password: ```peter```
 
-After succesfully logged in, I was greeted by the same window as in the [previous lab](/WSA(Burp)/LAB-1/answer.md) but this time, it has a few different things as mentioned in the picture below:
+After succesfully logged in, I was greeted by the same window as in the [previous lab](/WSA(Burp)/LAB-1-API-Documentation/answer.md) but this time, it has a few different things as mentioned in the picture below:
 
 ![My Account page](/WSA(Burp)/LAB-2-Identifying-and-interacting-with-API-endpoints/images/1.png)
 
