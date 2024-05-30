@@ -78,6 +78,5 @@ It shows us that the **Total** is **$0**. That means that I should get this item
 
 ![Order success](/WSA(Burp)/LAB-2-Identifying-and-interacting-with-API-endpoints/images/12.png)
 
-# Voila
 
 ![FINISHED](/WSA(Burp)/LAB-2-Identifying-and-interacting-with-API-endpoints/images/13.png)

@@ -45,6 +45,5 @@ I can proceed by closing the tab and go to ```DELETE``` function and entered Car
 
 ![DELETE Carlos user](/WSA(Burp)/LAB-1-API-Documentation/images/7.png)
 
-# VOILA
 
 ![FINISHED](/WSA(Burp)/LAB-1-API-Documentation/images/8.png)

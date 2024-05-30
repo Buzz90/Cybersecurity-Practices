@@ -111,6 +111,5 @@ Content-Length: 0
 
 It seems that there are no errors and we can see that the order is confirmed from looking at line 2: ```Location: /cart/order-confirmation?order-confirmed=true```. Now I can refresh the page again and see that there are no more orders and I successfully finished the lab.
 
-# Voila
-
 !["FINISHED"](/WSA(Burp)/LAB-3-Mass-assignment-vulnerabilities/images/7.png)
+
