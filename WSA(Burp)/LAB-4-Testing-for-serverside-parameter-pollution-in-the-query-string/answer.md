@@ -54,4 +54,7 @@ For now, I'll keep all the details above and proceed with trying to manipulate t
 
 !["Repeater"](/WSA(Burp)/LAB-4-Testing-for-serverside-parameter-pollution-in-the-query-string/images/7.png)
 
-Next, I will attempt to truncate the server-side request by adding URL-encoded ```#``` character (which is ```%23```) after ```administrator``` then I sent the request.
+Next, I will attempt to truncate the server-side request by adding URL-encoded ```#``` character (which is ```%23```) after ```administrator``` then I sent the request. Check the response i got below:
+
+!["Response"](/WSA(Burp)/LAB-4-Testing-for-serverside-parameter-pollution-in-the-query-string/images/8.png)
+
